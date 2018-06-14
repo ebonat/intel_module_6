@@ -1,2 +1,3 @@
-# intel_module_6
-intel module 6
+### Intel Class: "Advanced Python Programming for Everybody"
+
+Module 6 Source Code
